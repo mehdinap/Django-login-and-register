@@ -1,0 +1,9 @@
+h1,h2 {
+    text-align: center;
+}
+
+.login,.signin {
+    display: block;
+    margin: auto;
+}
+
